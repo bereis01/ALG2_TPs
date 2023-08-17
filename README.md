@@ -1,2 +1,4 @@
-# ALG2_TPs
-Trabalhos práticos para a disciplina [DCC207 - Algoritmos 2] 
+# Trabalhos Práticos
+DCC207 - Algoritmos 2 | Universidade Federal de Minas Gerais | 2023/01
+
+Bernardo Reis de Almeida
